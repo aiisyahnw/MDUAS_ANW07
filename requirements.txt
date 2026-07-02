@@ -2,8 +2,8 @@ streamlit
 boto3
 pandas
 numpy
-scikit-learn==1.8.0
-xgboost
+scikit-learn==1.2.2
 joblib
 mlflow
 sagemaker
+xgboost
